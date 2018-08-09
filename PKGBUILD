@@ -27,7 +27,7 @@ source=("google-chrome-${_channel}_${pkgver}_amd64.deb::https://dl.google.com/li
         "google-chrome-$_channel.sh")
 md5sums=('0be44b76b158b13f833487f769d354ac'
          'd50d8f0a6940791eabc41c4f64e6a3cf'
-         '99fa93d5e7fb5d622cef0f9621f3ffa3')
+         '26163a9591505e80f2aa83290b084ca8')
 
 ## Previous versions (also see: /var/cache/pacman/pkg/google-chrome-[^a-z]*):
 #source[0]="https://dl.google.com/linux/deb/pool/main/g/google-chrome-${_channel}/google-chrome-${_channel}_${pkgver}-1_amd64.deb"
